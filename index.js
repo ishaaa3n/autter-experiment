@@ -1,4 +1,4 @@
-function add(a, b) {
+﻿function add(a, b) {
   return a + b;
 }
 
@@ -8,6 +8,10 @@ function subtract(a, b) {
 
 function multiply(a, b) {
   return a * b;
+}
+
+function modulo(a, b) {
+  return a % b;
 }
 
 function divide(a, b) {
@@ -21,5 +25,6 @@ console.log("add(2, 3) =", add(2, 3));
 console.log("subtract(5, 2) =", subtract(5, 2));
 console.log("multiply(4, 3) =", multiply(4, 3));
 console.log("divide(10, 2) =", divide(10, 2));
+console.log("modulo(10, 3) =", modulo(10, 3));
 
-export { add, subtract, multiply, divide };
+export { add, subtract, multiply, divide, modulo };
