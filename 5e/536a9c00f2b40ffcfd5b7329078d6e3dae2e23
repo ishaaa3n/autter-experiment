@@ -1,0 +1,88 @@
+src/server.js
+  s_288b840a0fdbe7::t_9746c80d4db8aa 1-64
+receipts/sample.txt
+  s_288b840a0fdbe7::t_0e1b2df66d1e4e 1
+.gitignore
+  s_288b840a0fdbe7::t_0e5b19c018722e 1
+src/auth.js
+  s_288b840a0fdbe7::t_067acbf1cfabab 1-27
+  s_288b840a0fdbe7::t_9fc16e1beac283 28
+src/db.js
+  s_288b840a0fdbe7::t_7c622444d1a78e 1-45
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "autter_version": "2.0.0",
+  "base_commit_sha": "5e536a9c00f2b40ffcfd5b7329078d6e3dae2e23",
+  "branch": "wallet-api",
+  "prompts": {
+    "s_288b840a0fdbe7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "14d43618-db30-4534-9baf-34aadf0095d8",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Ishan <akashdesale98@gmail.com>",
+      "messages_url": "cas:b9a79b94852d44b2df24384036856760a7afab71082d62bb674e7e0cf81cae45",
+      "total_additions": 159,
+      "total_deletions": 1,
+      "accepted_lines": 158,
+      "overriden_lines": 0
+    }
+  },
+  "sessions": {
+    "s_288b840a0fdbe7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "14d43618-db30-4534-9baf-34aadf0095d8",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Ishan <akashdesale98@gmail.com>",
+      "messages_url": "cas:b9a79b94852d44b2df24384036856760a7afab71082d62bb674e7e0cf81cae45",
+      "stats": {
+        "total_additions": 159,
+        "total_deletions": 1,
+        "accepted_lines": 158,
+        "overriden_lines": 0,
+        "files": {
+          ".gitignore": {
+            "total_additions": 1,
+            "total_deletions": 0,
+            "accepted_lines": 1,
+            "overriden_lines": 0
+          },
+          "race-test.mjs": {
+            "total_additions": 19,
+            "total_deletions": 0,
+            "accepted_lines": 19,
+            "overriden_lines": 0
+          },
+          "receipts/sample.txt": {
+            "total_additions": 1,
+            "total_deletions": 0,
+            "accepted_lines": 1,
+            "overriden_lines": 0
+          },
+          "src/auth.js": {
+            "total_additions": 29,
+            "total_deletions": 1,
+            "accepted_lines": 28,
+            "overriden_lines": 0
+          },
+          "src/db.js": {
+            "total_additions": 45,
+            "total_deletions": 0,
+            "accepted_lines": 45,
+            "overriden_lines": 0
+          },
+          "src/server.js": {
+            "total_additions": 64,
+            "total_deletions": 0,
+            "accepted_lines": 64,
+            "overriden_lines": 0
+          }
+        }
+      }
+    }
+  }
+}
