@@ -1,0 +1,11 @@
+{
+  "name": "autter-experiment",
+  "version": "1.0.0",
+  "description": "Small sandbox project to test how Autter attributes AI vs human edits",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  }
+}
