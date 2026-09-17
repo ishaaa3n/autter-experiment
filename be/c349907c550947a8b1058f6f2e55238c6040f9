@@ -1,0 +1,50 @@
+index.js
+  s_288b840a0fdbe7::t_bf635c7d708a5a 37,39
+  s_288b840a0fdbe7::t_1c5bef0dde53fe 24-31
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "autter_version": "2.0.0",
+  "base_commit_sha": "bec349907c550947a8b1058f6f2e55238c6040f9",
+  "branch": "buggy-feature",
+  "prompts": {
+    "s_288b840a0fdbe7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "14d43618-db30-4534-9baf-34aadf0095d8",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Ishan <akashdesale98@gmail.com>",
+      "messages_url": "cas:bb79f8944d44819d7977818720cbe8f4fa35c87cd8b3fdc50727d05519f15b2f",
+      "total_additions": 10,
+      "total_deletions": 1,
+      "accepted_lines": 10,
+      "overriden_lines": 0
+    }
+  },
+  "sessions": {
+    "s_288b840a0fdbe7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "14d43618-db30-4534-9baf-34aadf0095d8",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Ishan <akashdesale98@gmail.com>",
+      "messages_url": "cas:bb79f8944d44819d7977818720cbe8f4fa35c87cd8b3fdc50727d05519f15b2f",
+      "stats": {
+        "total_additions": 10,
+        "total_deletions": 1,
+        "accepted_lines": 10,
+        "overriden_lines": 0,
+        "files": {
+          "index.js": {
+            "total_additions": 10,
+            "total_deletions": 1,
+            "accepted_lines": 10,
+            "overriden_lines": 0
+          }
+        }
+      }
+    }
+  }
+}
